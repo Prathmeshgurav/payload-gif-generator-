@@ -1,0 +1,12 @@
+# Enhanced requirements.txt
+pillow==10.1.0      # For advanced image manipulation
+pycryptodome==3.18.0  # For payload encryption
+numpy==1.26.0       # For efficient binary operations
+click==8.1.7        # For building CLI interface
+# requirements.txt
+# No external dependencies required for basic GIF payload generation
+# Python 3.x is required
+
+# Optional (uncomment if you add these features):
+pillow==10.1.0  # For advanced GIF manipulation
+numpy==1.26.0   # For binary data processing
